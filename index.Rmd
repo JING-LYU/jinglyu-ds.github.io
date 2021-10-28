@@ -4,9 +4,39 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
+
 ---
 
-# This is Jeff's awesome website
+# This is Jing's awesome website
+
+What if I add some text here...
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+# here's a subsection
+
+lalaal
+ 
+name of this file "index" could be very important.
+
+# Links
+
+useful tools
+
+* [Google](https://www.google.com)
+* [p8105](https://p8105.com)
+
+[Google](https://www.google.com)
+
+[p8105](https://p8105.com)
+
+# Local image
+
+![](images/IMG_4434.JPG)
+
+
+# additional page
+
+# Link to page within the site
+
+[About me](about.html)
