@@ -2,12 +2,17 @@
 title: "My awesome website"
 output: 
   html_document:
+    code_folding: hide
     toc: true
     toc_float: true
 
 ---
 
 # This is Jing's awesome website
+
+```{r}
+rnorm(3)
+```
 
 What if I add some text here...
 
@@ -31,7 +36,7 @@ useful tools
 [p8105](https://p8105.com)
 
 # Local image
-
+<img src="images/IMG_4434.JPG" style="width:75%">
 ![](images/IMG_4434.JPG)
 
 
@@ -40,3 +45,13 @@ useful tools
 # Link to page within the site
 
 [About me](about.html)
+
+## Quarterly Results {.tabset}
+
+### By Product
+
+It is product
+
+### By Region
+
+It is region
